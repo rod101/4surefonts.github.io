@@ -1,0 +1,64 @@
+body{
+	background: #333333;
+	color: #888888;
+
+}
+
+@font-face {
+   font-family: Ubuntu;
+   src: url(../fonts/Ubuntu-L.ttf);
+}
+
+@font-face {
+   font-family: OpenSans;
+   src: url(../fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+   font-family: Avenir;
+   src: url(../fonts/AvenirLTStd-Light.otf);
+}
+
+@font-face {
+   font-family: Gotham;
+   src: url(../fonts/GothamLight-Regular.otf);
+}
+
+
+
+div{
+	width: 600px
+
+}
+
+h1{
+
+}
+
+h2{
+
+}
+
+
+p {
+}
+
+#one{
+    font-family: "Ubuntu";
+	
+}
+
+#two{
+    font-family: "OpenSans";
+	
+}
+
+#three{
+    font-family: "Avenir";
+	
+}
+
+#four{
+    font-family: "Gotham";
+	
+}
