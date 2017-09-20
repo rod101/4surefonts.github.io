@@ -1,0 +1,117 @@
+body{
+	background: #333333;
+	color: #888888;
+}
+
+@font-face {
+   font-family: Ubuntu;
+   src: url(../fonts/Ubuntu-L.ttf);
+}
+
+@font-face {
+   font-family: OpenSans;
+   src: url(../fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+   font-family: Avenir;
+   src: url(../fonts/AvenirLTStd-Light.otf);
+}
+
+@font-face {
+   font-family: Gotham;
+   src: url(../fonts/GothamLight-Regular.otf);
+}
+
+@font-face {
+   font-family: Cabin;
+}
+
+@font-face {
+   font-family: Open Sans;
+}
+
+
+@font-face {
+   font-family: Raleway;
+}
+
+@font-face {
+   font-family: Source Sans Pro;
+}
+
+@font-face {
+   font-family: Oxygen;
+}
+
+@font-face {
+   font-family: Lato;
+}
+
+
+
+
+
+
+div{
+	width: 600px
+
+}
+
+h1{
+
+}
+
+h2{
+
+}
+
+
+p {
+}
+
+#one{
+    font-family: "Ubuntu";
+	
+}
+
+#two{
+    font-family: "OpenSans";
+	
+}
+
+#three{
+    font-family: "Avenir";
+	
+}
+
+#four{
+    font-family: "Gotham";
+	
+}
+
+#five{
+    font-family: "Cabin";
+	
+}
+
+#six{
+    font-family: "Open Sans";
+	
+}
+
+#seven {
+   font-family: Raleway;
+}
+
+#eight {
+   font-family: Source Sans Pro;
+}
+
+#nine {
+   font-family: Oxygen;
+}
+
+#ten {
+   font-family: Lato;
+}
